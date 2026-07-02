@@ -4,7 +4,7 @@ A simple static landing page built using HTML and CSS.
 
 ## Preview
 
-![Landing Page Preview](landing-page.png)
+![Landing Page Preview](LandingPage.png)
 
 ## Features
 
