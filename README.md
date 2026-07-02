@@ -1,23 +1,23 @@
 # Landing Page
 
-This is a simple static landing page built using HTML.
+A simple static landing page built using HTML and CSS.
+
+## Preview
+
+![Landing Page Preview](landing-page.png)
 
 ## Features
 
 - Hero Section
 - Navigation Bar
-- Attractive Background
+- Modern UI
+- Background Image
 - Call-to-Action Button
-- Footer
 
 ## Technologies Used
 
 - HTML5
-- Inline CSS
-
-## Purpose
-
-This project was created to practice building a landing page and improve my front-end development skills.
+- CSS
 
 ## Author
 
